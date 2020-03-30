@@ -23,8 +23,6 @@ FB Messenger Chatbot
 
 Bootstrap
 
-# Target Market
-
 # Features
 
 Live Map
@@ -60,11 +58,3 @@ Accept donations
 (9) Discussions forum for volunteers to chat/share ideas
 
 (10) Data analytics on how many volunteers required, how much help is needed in region and who can qualify to help best
-
-
-# Implementation
-
-# Challenges
-
-# Project Map
-
