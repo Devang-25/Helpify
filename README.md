@@ -1,6 +1,6 @@
 # COVID-19 2020 Global Hackathon
 
-## Project Name: Helpify - Fighting the Invisible Enemy Together
+## Project Name: Helpify - Fighting Against the Invisible Enemy Together
 ## (Team Members: Devang Sharma, Shivay Lamba, Akash)
 
 # Summary
